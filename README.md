@@ -17,9 +17,9 @@ The team members are all using different softwares, programs, and applications t
 The team consists of 8 members and their respective softwares:
   - Project Manager --> Pavan Sastri (psastri@vt.edu) ==> Jira
   - Requirements Analyst --> Kirk Graham (kirkgraham1@vt.edu) ==> Katalon Studio
-  - Data Manager --> Jacob Mims (jacobmims@vt.edu) ==> Google BigQuery
+  - Data Manager --> Jacob Mims (jacobmims@vt.edu) ==> Google BigQuery, Google MySQL
   - Process Designer --> Allie Ahwee-Marrah (alexam99@vt.edu) ==> Microsoft Power Automate
   - UX Lead --> Derek Stoughton (ddstoten@vt.edu) ==> JustInMind
   - BI Analyst 1 --> Jacquelyn Young (jyoung4@vt.edu) ==> Google Data Studio
   - BI Analyst 2 --> Natalie Calizon (ncalizon00@vt.edu) ==> Metabase
-  - Developer --> Vignesh Sinha (vigneshsinha@vt.edu) ==> HTML, CSS, JavaScript, React.js
+  - Developer --> Vignesh Sinha (vigneshsinha@vt.edu) ==> HTML, CSS, JavaScript, React.js, Express, Node.js

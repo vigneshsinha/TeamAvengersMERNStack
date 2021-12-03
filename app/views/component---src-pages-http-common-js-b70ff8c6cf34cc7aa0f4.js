@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksmu_app=self.webpackChunksmu_app||[]).push([[9347],{2559:function(a,e,p){p.r(e);var s=p(6633),t=p.n(s);e.default=t().create({baseURL:"http://localhost:8020/api",headers:{"Content-Type":"application/json"}})}}]);
+//# sourceMappingURL=component---src-pages-http-common-js-b70ff8c6cf34cc7aa0f4.js.map

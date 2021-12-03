@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksmu_app=self.webpackChunksmu_app||[]).push([[866],{9658:function(e,u,a){a.r(u);var s=a(7294);u.default=function(){return s.createElement("h1",null,"You have successfully completed a Peer Evaluation for: Jacob Mims")}}}]);
+//# sourceMappingURL=component---src-pages-success-js-99f31d50be79840f58d9.js.map

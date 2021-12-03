@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksmu_app=self.webpackChunksmu_app||[]).push([[321],{6378:function(e,t,n){n.r(t);var u=n(7294),l=n(5444);t.default=function(){return u.createElement(u.Fragment,null,u.createElement("div",{id:"frame"},u.createElement("h1",null,"Are you sure you wish to logout?"),u.createElement("button",null,u.createElement(l.rU,{to:"/login"},"Yes")),u.createElement("button",null,u.createElement(l.rU,{to:"/menu"},"No"))))}}}]);
+//# sourceMappingURL=component---src-pages-logout-js-0614b1bd3cf41d077411.js.map

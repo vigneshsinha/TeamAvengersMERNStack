@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksmu_app=self.webpackChunksmu_app||[]).push([[678],{7704:function(e,n,t){t.r(n);var o=t(7294),l=t(5444);Object.assign({},{color:"#8954A8",fontWeight:"bold",fontSize:16,verticalAlign:"5%"},{listStyleType:"none",marginBottom:24});n.default=function(){return o.createElement(l.rU,{to:"/login"},o.createElement("p",null,"Continue to Login Screen."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-78f8ad80b94c72303570.js.map
